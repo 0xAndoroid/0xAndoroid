@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AndoroidX from Ukraine
+- 👀 I’m interested in Computer Science and Cryptography
+- 🌱 I’m currently studying Computer Science at Kyiv National University
+- 📫 Feel free to reach me contact@andriytretyakov.com
