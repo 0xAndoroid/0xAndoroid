@@ -7,7 +7,6 @@ Ambitious developer with in-depth knowledge and experience in many technologies.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0xAndoroid&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndoroidX&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAndoroid&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=0xAndoroid&limit=5&theme=onedark&combine_all_yearly_contributions=true)
